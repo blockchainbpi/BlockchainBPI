@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome 👋
+
+### 🤔 Business Process Integration Software
+
 
 <!--
 **blockchainbpi/BlockchainBPI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Blockchain BPI was formed as a result of years of experience in Financial trading system development for exchanges and investment banks along with Industrial Engineering gigs and then finally blockchain application development and crypto currency exchange wallet work.</p>
+<!-- /wp:paragraph -->
+
+<p>These professional experiences piqued an interest in the melange of these technologies that would provide an infrastructure to run an efficient business built upon a secure, consensus oriented and self reconcilable process.</p>
+<!-- /wp:paragraph -->
+
+
+📫 47 Gallinson Drive 
+   New Providence, NJ, 07974 
+
+☎ (609) 744-8241
