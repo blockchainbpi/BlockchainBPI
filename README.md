@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <!-- /wp:paragraph -->
 
 
-📫 47 Gallinson Drive 
-   New Providence, NJ, 07974 
 
-☎ (609) 744-8241
+
+☎ (917) 727-8605
